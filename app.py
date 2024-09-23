@@ -69,7 +69,6 @@ question = st.text_input("Enter your question here", key="input")
 submit = st.button("🚀 Submit")
 
 # IF SUBMIT IS CLICKED
-# IF SUBMIT IS CLICKED
 if submit:
     if question:
         with st.spinner('Generating SQL query and fetching results...'):
