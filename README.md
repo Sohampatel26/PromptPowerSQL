@@ -2,7 +2,7 @@
 # **PromptPowerSQL**
 
 ## **Overview**
-PromptPowerSQL is an AI-driven tool that allows users to query their SQL database using natural language prompts. By leveraging LLMs, it translates English-language questions into SQL commands and retrieves data from your database. Ideal for users who aren't proficient in SQL, PromptPowerSQL simplifies database interaction by turning plain English prompts into precise SQL queries.
+PromptPowerSQL is an AI-driven tool that allows users to query their SQL database using natural language prompts. It is a RAG developed by leveraging Gemini-Pro LLM, this translates English-language questions into SQL commands and retrieves data from your database. Ideal for users who aren't proficient in SQL, PromptPowerSQL simplifies database interaction by turning plain English prompts into precise SQL queries.
 
 ## **Features**
 - **Natural Language to SQL**: Input questions, and PromptPowerSQL generates the corresponding SQL.
